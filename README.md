@@ -3,8 +3,8 @@
 
 **jatinmuley/jatinmuley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinmuley&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Jatin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinmuley)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jatinmuley&show_icons=true&theme=radical)
 - 🔭 I’m currently working on  Application Development and DevOps
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
